@@ -1,0 +1,1960 @@
+{
+  "model_requested": "sonnet",
+  "model_ids": [
+    "claude-sonnet-5-5"
+  ],
+  "ai_seconds_total": 125.1,
+  "answer_key_reviewed": true,
+  "prompt_version": "v1",
+  "summary": {
+    "items": 48,
+    "flag_total": 175,
+    "flag_correct": 172,
+    "flag_wrong": 3,
+    "flag_unanswered": 0,
+    "dangerous": 2,
+    "spicy_exact": 46,
+    "spicy_within_1": 47,
+    "flag_accuracy": 98.3
+  },
+  "rows": [
+    {
+      "ko": "떡볶이",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "순대",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "모듬튀김",
+      "flags": {
+        "pork": "skip",
+        "beef": "correct",
+        "seafood": "skip",
+        "raw": "correct"
+      },
+      "correct": 2,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "김밥",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "부산오뎅",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "찐계란",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "땡초계란라면",
+      "flags": {
+        "pork": "skip",
+        "beef": "skip",
+        "seafood": "skip",
+        "raw": "correct"
+      },
+      "correct": 1,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "간자장",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "skip",
+        "raw": "correct"
+      },
+      "correct": 3,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "매운유니자장",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "skip",
+        "raw": "correct"
+      },
+      "correct": 3,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "해물짬뽕",
+      "flags": {
+        "pork": "skip",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 3,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "차돌해물짬뽕",
+      "flags": {
+        "pork": "skip",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 3,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "찹쌀탕수육",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "깐풍기",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "볶음밥",
+      "flags": {
+        "pork": "skip",
+        "beef": "correct",
+        "seafood": "skip",
+        "raw": "correct"
+      },
+      "correct": 2,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "열탄불고기",
+      "flags": {
+        "pork": "wrong",
+        "beef": "wrong",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 2,
+      "wrong": 2,
+      "unanswered": 0,
+      "dangerous": 1,
+      "spicy": "wrong"
+    },
+    {
+      "ko": "7분돼지김치",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "wrong",
+        "raw": "correct"
+      },
+      "correct": 3,
+      "wrong": 1,
+      "unanswered": 0,
+      "dangerous": 1,
+      "spicy": "correct"
+    },
+    {
+      "ko": "한돈생삼겹살",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "한돈생목살",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "항정살",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "우삼겹된장찌개",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "skip",
+        "raw": "correct"
+      },
+      "correct": 3,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "냉김치말이국수",
+      "flags": {
+        "pork": "correct",
+        "beef": "skip",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 3,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "돼지불고기",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "오삼불고기",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "소불고기",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "두부찌개",
+      "flags": {
+        "pork": "skip",
+        "beef": "skip",
+        "seafood": "skip",
+        "raw": "correct"
+      },
+      "correct": 1,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "닭볶음탕",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "고등어김치조림",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "양념게장",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "허니콤보",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "레드콤보",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "간장콤보",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "반반콤보[간장+레드]",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "허니순살",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "후라이드한마리",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "양념치킨한마리",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "close"
+    },
+    {
+      "ko": "토종삼계탕",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "들깨삼계탕",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "흑마늘삼계탕",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "녹두삼계탕",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "산삼배양근삼계탕",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "백년삼계탕",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "모둠초밥",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "참다랑어뱃살초밥",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "참다랑어등살초밥",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "광어초밥",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "연어초밥",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "새우초밥",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "skip"
+      },
+      "correct": 3,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    },
+    {
+      "ko": "모둠사시미",
+      "flags": {
+        "pork": "correct",
+        "beef": "correct",
+        "seafood": "correct",
+        "raw": "correct"
+      },
+      "correct": 4,
+      "wrong": 0,
+      "unanswered": 0,
+      "dangerous": 0,
+      "spicy": "correct"
+    }
+  ],
+  "ai_items": [
+    {
+      "ko": "떡볶이",
+      "is_food": true,
+      "roman": "tteokbokki",
+      "spicy": 2,
+      "name": {
+        "en": "Tteokbokki (Spicy Rice Cakes)",
+        "ja": "トッポッキ",
+        "zh": "辣炒年糕"
+      },
+      "desc": {
+        "en": "Chewy rice cakes simmered with fish cakes in a sweet and spicy gochujang sauce, eaten as a popular street snack.",
+        "ja": "もちもちの餅とおでんを甘辛いコチュジャンソースで煮た、定番の屋台おやつ。",
+        "zh": "软糯年糕和鱼饼用甜辣辣椒酱煮成的韩国经典小吃。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "likely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "순대",
+      "is_food": true,
+      "roman": "sundae",
+      "spicy": 0,
+      "name": {
+        "en": "Sundae (Korean Blood Sausage)",
+        "ja": "スンデ(韓国風血詰めソーセージ)",
+        "zh": "韩式血肠"
+      },
+      "desc": {
+        "en": "Steamed sausage stuffed with glass noodles and pork blood, sliced and dipped in salt or seasoned salt.",
+        "ja": "春雨と豚の血などを腸に詰てて蒸したもの。塩をつけて食べる。",
+        "zh": "肠衣中填入粉丝和猪血蒸制,切片蘸盐食用。"
+      },
+      "pork": "yes",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "모듬튀김",
+      "is_food": true,
+      "roman": "modeumtwigim",
+      "spicy": 0,
+      "name": {
+        "en": "Assorted Korean Fritters",
+        "ja": "天ぷら盛り合わせ",
+        "zh": "什锦炸物"
+      },
+      "desc": {
+        "en": "A mixed plate of deep-fried vegetables, sweet potato, squid and glass noodle rolls, often dipped in tteokbokki sauce.",
+        "ja": "野菜やさつまいも、イカなどの揚げ物盛り合わせ。トッポッキのソースにつけて食べる。",
+        "zh": "蔬菜、红薯、鱿鱼等混合炸物,常蘸辣炒年糕酱汁吃。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "likely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "김밥",
+      "is_food": true,
+      "roman": "gimbap",
+      "spicy": 0,
+      "name": {
+        "en": "Gimbap (Korean Seaweed Rice Rolls)",
+        "ja": "キンパ(韓国風海苔巻き)",
+        "zh": "韩式紫菜包饭"
+      },
+      "desc": {
+        "en": "Rice and fillings like egg, pickled radish, carrot and ham rolled in seaweed and sliced into bite-sized pieces.",
+        "ja": "ご飯と卵、たくあん、にんじん、ハムなどを海苔で巻いて切った軽食。",
+        "zh": "将米饭、鸡蛋、腌萝卜、胡萝卜、火腿等用紫菜卷起切片。"
+      },
+      "pork": "likely",
+      "beef": "unlikely",
+      "seafood": "likely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "부산오뎅",
+      "is_food": true,
+      "roman": "busanodeng",
+      "spicy": 0,
+      "name": {
+        "en": "Busan-style Fish Cake Soup",
+        "ja": "釜山風おでん",
+        "zh": "釜山鱼饼汤"
+      },
+      "desc": {
+        "en": "Fish cakes on skewers simmered in a light savory broth, served hot with some of the soup.",
+        "ja": "串に刺した魚のすり身を、あっさりした出汁で煮込んだ温かいおでん。",
+        "zh": "串起来的鱼饼在清淡鲜香的汤中煮熟,趁热连汤食用。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "raw"
+      ]
+    },
+    {
+      "ko": "찐계란",
+      "is_food": true,
+      "roman": "jjingyegran",
+      "spicy": 0,
+      "name": {
+        "en": "Steamed Eggs",
+        "ja": "蒸し卵",
+        "zh": "蒸鸡蛋"
+      },
+      "desc": {
+        "en": "Whole eggs steamed or baked until fully cooked, eaten as a simple snack, often with salt.",
+        "ja": "殻付きのまま蒸して火を通した卵。塩をつけて食べる定番の軽食。",
+        "zh": "带壳蒸熟的整只鸡蛋,常蘸盐当作简单小吃。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "땡초계란라면",
+      "is_food": true,
+      "roman": "ttaengchogyeranramyeon",
+      "spicy": 3,
+      "name": {
+        "en": "Spicy Egg Ramyeon with Green Chili",
+        "ja": "青唐辛子入り卵ラーメン",
+        "zh": "青辣椒鸡蛋拉面"
+      },
+      "desc": {
+        "en": "Instant-style ramyeon noodles boiled in a very spicy broth with hot green chilies and egg.",
+        "ja": "激辛の青唐辛子と卵を加えて煮た、辛いインスタント風ラーメン。",
+        "zh": "加入超辣青辣椒和鸡蛋煮成的辣味拉面。"
+      },
+      "pork": "unlikely",
+      "beef": "likely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "간자장",
+      "is_food": true,
+      "roman": "ganjajang",
+      "spicy": 0,
+      "name": {
+        "en": "Dry-Fried Black Bean Noodles",
+        "ja": "カンジャジャン(汁なしジャジャン麺)",
+        "zh": "干炸酱面"
+      },
+      "desc": {
+        "en": "Noodles topped with black bean sauce stir-fried with little liquid, usually with pork and onion; mix well and eat.",
+        "ja": "水分少なめに炒めた黒味噌ソースをかけた麺。豚肉と玉ねぎ入りが一般的で、混ぜて食べる。",
+        "zh": "黑豆酱汤汁较少、炒制后浇在面上,通常含猪肉和洋葱,拌匀食用。"
+      },
+      "pork": "likely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "매운유니자장",
+      "is_food": true,
+      "roman": "maeunyunijajang",
+      "spicy": 2,
+      "name": {
+        "en": "Spicy Black Bean Noodles with Seafood Roe",
+        "ja": "辛口ユニジャジャン",
+        "zh": "辣味海胆酱炸酱面"
+      },
+      "desc": {
+        "en": "Black bean noodles with a spicy kick, typically topped with sea urchin roe (uni) or similar seafood; mix and eat.",
+        "ja": "ウニ(またはウニ風味)を使った辛口のジャジャン麺。よく混ぜて食べる。",
+        "zh": "带辣味的炸酱面,通常配海胆(或海胆风味)酱,拌匀食用。"
+      },
+      "pork": "likely",
+      "beef": "unlikely",
+      "seafood": "likely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "해물짬뽕",
+      "is_food": true,
+      "roman": "haemuljjamppong",
+      "spicy": 2,
+      "name": {
+        "en": "Spicy Seafood Noodle Soup",
+        "ja": "海鮮チャンポン",
+        "zh": "海鲜辣汤面"
+      },
+      "desc": {
+        "en": "Spicy red noodle soup with squid, shrimp, mussels and vegetables in a rich, savory broth.",
+        "ja": "イカ・エビ・ムール貝と野菜が入った、辛口で旨味の濃い赤いスープ麺。",
+        "zh": "加入鱿鱼、虾、贻贝和蔬菜的辣味红汤面,汤底浓郁鲜香。"
+      },
+      "pork": "likely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "raw"
+      ]
+    },
+    {
+      "ko": "차돌해물짬뽕",
+      "is_food": true,
+      "roman": "chadolhaemuljjamppong",
+      "spicy": 2,
+      "name": {
+        "en": "Spicy Seafood Noodle Soup with Beef Brisket",
+        "ja": "牛バラ入り海鮮チャンポン",
+        "zh": "牛腩海鲜辣汤面"
+      },
+      "desc": {
+        "en": "Spicy seafood noodle soup topped with thin slices of beef brisket along with squid, shrimp and mussels.",
+        "ja": "薄切り牛バラ肉を加えた、イカやエビ入りの辛口海鮮スープ麺。",
+        "zh": "在海鲜辣汤面中加入薄切牛腩片,配鱿鱼、虾和贻贝。"
+      },
+      "pork": "unlikely",
+      "beef": "yes",
+      "seafood": "yes",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "raw"
+      ]
+    },
+    {
+      "ko": "찹쌀탕수육",
+      "is_food": true,
+      "roman": "chapssaltangsuyuk",
+      "spicy": 0,
+      "name": {
+        "en": "Crispy Sweet and Sour Pork (Glutinous Rice Batter)",
+        "ja": "もち米の酢豚(タンスユク)",
+        "zh": "糯米糖醋肉"
+      },
+      "desc": {
+        "en": "Pork coated in glutinous rice starch batter, deep-fried until chewy-crisp and served with sweet and sour sauce.",
+        "ja": "もち米粉の衣で揚げた豚肉に甘酢ソースを添えた、もちっとサクッとした料理。",
+        "zh": "裹糯米粉糊炸至外脆内糯的猪肉,配酸甜酱汁。"
+      },
+      "pork": "yes",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "깐풍기",
+      "is_food": true,
+      "roman": "kkanpunggi",
+      "spicy": 1,
+      "name": {
+        "en": "Spicy Garlic Fried Chicken",
+        "ja": "カンプンギ(辛口ガーリック唐揚げ)",
+        "zh": "干烹鸡"
+      },
+      "desc": {
+        "en": "Crispy fried chicken pieces tossed in a sweet, tangy, lightly spicy garlic and chili sauce.",
+        "ja": "揚げた鶏肉を、甘酸っぱくピリ辛のにんにく唐辛子ソースで絡めた料理。",
+        "zh": "炸鸡块裹上酸甜微辣的蒜香辣椒酱汁。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "볶음밥",
+      "is_food": true,
+      "roman": "bokkeumbap",
+      "spicy": 0,
+      "name": {
+        "en": "Chinese-Style Fried Rice",
+        "ja": "チャーハン",
+        "zh": "炒饭"
+      },
+      "desc": {
+        "en": "Rice stir-fried with egg, vegetables and usually pork or shrimp, often served with black bean sauce or soup.",
+        "ja": "卵・野菜・豚肉やエビなどと炒めたご飯。ジャジャンソースやスープが付くことも多い。",
+        "zh": "用鸡蛋、蔬菜及猪肉或虾等炒制的米饭,常配炸酱或汤。"
+      },
+      "pork": "likely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "열탄불고기",
+      "is_food": true,
+      "roman": "yeoltanbulgogi",
+      "spicy": 0,
+      "name": {
+        "en": "Charcoal-Grilled Bulgogi",
+        "ja": "炭火焼きプルコギ",
+        "zh": "炭烤烤肉"
+      },
+      "desc": {
+        "en": "Thinly sliced marinated beef grilled over hot charcoal at the table, sweet and savory, eaten with lettuce wraps.",
+        "ja": "甘辛いタレに漬けた薄切り牛肉を炭火で焼き、サンチュに包んで食べる。",
+        "zh": "腌制的薄牛肉片用炭火烤制,味道咸甜,可用生菜包着吃。"
+      },
+      "pork": "unlikely",
+      "beef": "yes",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "7분돼지김치",
+      "is_food": true,
+      "roman": "chilbunDwaejigimchi",
+      "spicy": 2,
+      "name": {
+        "en": "7-Minute Pork and Kimchi Stir-Fry",
+        "ja": "豚キムチ炒め(7分調理)",
+        "zh": "七分钟泡菜炒猪肉"
+      },
+      "desc": {
+        "en": "Pork stir-fried with spicy kimchi, cooked about seven minutes, usually served on a hot plate with rice.",
+        "ja": "豚肉とキムチを辛く炒めた料理で、約7分で仕上げ、ご飯と食べる。",
+        "zh": "猪肉与辣泡菜一起炒制,约七分钟出锅,配米饭食用。"
+      },
+      "pork": "yes",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "한돈생삼겹살",
+      "is_food": true,
+      "roman": "handonsaengsamgyeopsal",
+      "spicy": 0,
+      "name": {
+        "en": "Korean Pork Belly (Fresh, Unmarinated)",
+        "ja": "韓国産豚バラ焼き(生肉)",
+        "zh": "韩国本地猪五花肉(鲜肉)"
+      },
+      "desc": {
+        "en": "Thick fresh, never-frozen Korean pork belly grilled at the table, eaten in lettuce wraps with dipping salt and sauce.",
+        "ja": "冷凍していない韓国産豚バラ肉をテーブルで焼き、サンチュに包んで食べる。",
+        "zh": "未冷冻的韩国本地猪五花肉,桌上烤制,用生菜包着蘸酱吃。"
+      },
+      "pork": "yes",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "한돈생목살",
+      "is_food": true,
+      "roman": "handonsaengmokssal",
+      "spicy": 0,
+      "name": {
+        "en": "Korean Pork Neck (Fresh, Unmarinated)",
+        "ja": "韓国産豚首肉焼き(生肉)",
+        "zh": "韩国本地猪颈肉(鲜肉)"
+      },
+      "desc": {
+        "en": "Fresh Korean pork neck, juicy and slightly chewy, grilled at the table and eaten with lettuce and dipping sauces.",
+        "ja": "ジューシーな韓国産豚の首肉をテーブルで焼き、野菜に包んで食べる。",
+        "zh": "多汁有嚼劲的韩国本地猪颈肉,桌上烤制,配生菜和蘸酱食用。"
+      },
+      "pork": "yes",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "항정살",
+      "is_food": true,
+      "roman": "hangjeongsal",
+      "spicy": 0,
+      "name": {
+        "en": "Pork Jowl",
+        "ja": "豚トロ(ハンジョンサル)",
+        "zh": "猪颈下肉(项正肉)"
+      },
+      "desc": {
+        "en": "Rich, crunchy-chewy pork jowl cut grilled at the table and dipped in salt or sauce.",
+        "ja": "脂がのり歯ごたえのある豚の頬・首下の希少部位を焼いて塩やタレで食べる。",
+        "zh": "口感脆嫩、油脂丰富的猪颈下稀有部位,烤后蘸盐或酱食用。"
+      },
+      "pork": "yes",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "우삼겹된장찌개",
+      "is_food": true,
+      "roman": "usamgyeopsaldoenjangjjigae",
+      "spicy": 1,
+      "name": {
+        "en": "Beef Brisket Soybean Paste Stew",
+        "ja": "牛バラ入りテンジャンチゲ",
+        "zh": "牛五花大酱汤"
+      },
+      "desc": {
+        "en": "Hearty stew of fermented soybean paste with sliced beef brisket, tofu and vegetables, served bubbling hot with rice.",
+        "ja": "味噌に似た韓国の大豆発酵調味料に牛バラ肉、豆腐、野菜を入れた鍋で、ご飯と食べる。",
+        "zh": "用韩式大酱加牛五花、豆腐和蔬菜煮成的热汤锅,配米饭食用。"
+      },
+      "pork": "unlikely",
+      "beef": "yes",
+      "seafood": "likely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "냉김치말이국수",
+      "is_food": true,
+      "roman": "naengkimchimarigugsu",
+      "spicy": 1,
+      "name": {
+        "en": "Cold Kimchi Noodle Soup",
+        "ja": "冷たいキムチ素麺スープ",
+        "zh": "冷泡菜汤面"
+      },
+      "desc": {
+        "en": "Thin wheat noodles in a chilled, tangy kimchi broth, refreshing and often eaten at the end of a barbecue meal.",
+        "ja": "細い小麦麺を冷たく酸味のあるキムチスープに入れた、焼肉の締めに人気の一品。",
+        "zh": "细小麦面条配冰凉酸辣的泡菜汤,常作为烤肉后的收尾。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "likely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "돼지불고기",
+      "is_food": true,
+      "roman": "dwaejibulgogi",
+      "spicy": 1,
+      "name": {
+        "en": "Spicy-Sweet Marinated Pork BBQ",
+        "ja": "豚プルコギ",
+        "zh": "酱烤猪肉"
+      },
+      "desc": {
+        "en": "Thinly sliced pork marinated in soy-based sauce, often with gochujang, stir-fried with vegetables and eaten with rice.",
+        "ja": "薄切り豚肉を醤油やコチュジャンのタレに漬け、野菜と炒めた料理。ご飯と一緒に食べる。",
+        "zh": "薄切猪肉用酱油或辣酱腌制后与蔬菜翻炒,配米饭食用。"
+      },
+      "pork": "yes",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "오삼불고기",
+      "is_food": true,
+      "roman": "osambulgogi",
+      "spicy": 2,
+      "name": {
+        "en": "Stir-fried Squid and Pork in Spicy Sauce",
+        "ja": "イカと豚肉の辛味炒め(オサムプルコギ)",
+        "zh": "鱿鱼五花肉辣炒"
+      },
+      "desc": {
+        "en": "Squid and thinly sliced pork belly stir-fried with vegetables in a spicy gochujang sauce, served with rice.",
+        "ja": "イカと豚バラ肉を野菜と一緒にコチュジャンベースの辛いタレで炒めた料理。",
+        "zh": "鱿鱼和五花肉加蔬菜,用辣椒酱炒制,配米饭食用。"
+      },
+      "pork": "yes",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "beef",
+        "raw"
+      ]
+    },
+    {
+      "ko": "소불고기",
+      "is_food": true,
+      "roman": "sobulgogi",
+      "spicy": 0,
+      "name": {
+        "en": "Beef Bulgogi",
+        "ja": "牛プルコギ",
+        "zh": "韩式烤牛肉"
+      },
+      "desc": {
+        "en": "Thinly sliced beef marinated in sweet soy sauce, grilled or stir-fried with onions and eaten with rice.",
+        "ja": "薄切り牛肉を甘い醤油ダレに漬け、玉ねぎなどと焼いた料理。ご飯に合う。",
+        "zh": "薄切牛肉用甜酱油腌制,与洋葱一起烤或炒,配米饭。"
+      },
+      "pork": "unlikely",
+      "beef": "yes",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "두부찌개",
+      "is_food": true,
+      "roman": "dubujjigae",
+      "spicy": 2,
+      "name": {
+        "en": "Tofu Stew",
+        "ja": "豆腐チゲ",
+        "zh": "豆腐锅"
+      },
+      "desc": {
+        "en": "Spicy stew of tofu simmered with vegetables and often pork or seafood in a red chili broth.",
+        "ja": "豆腐を野菜や豚肉などと辛いスープで煮込んだ鍋料理。",
+        "zh": "豆腐与蔬菜、常加猪肉或海鲜,用辣汤炖煮的锅。"
+      },
+      "pork": "likely",
+      "beef": "unlikely",
+      "seafood": "likely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "닭볶음탕",
+      "is_food": true,
+      "roman": "dakbokkeumtang",
+      "spicy": 2,
+      "name": {
+        "en": "Spicy Braised Chicken Stew",
+        "ja": "タッポックムタン(鶏の辛口煮込み)",
+        "zh": "辣炖鸡块"
+      },
+      "desc": {
+        "en": "Chicken pieces braised with potatoes and carrots in a spicy gochujang-based sauce, shared and eaten with rice.",
+        "ja": "鶏肉をじゃがいもなどとコチュジャン味で甘辛く煮込んだ鍋料理。",
+        "zh": "鸡块与土豆、胡萝卜用辣酱炖煮，配米饭分食。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "고등어김치조림",
+      "is_food": true,
+      "roman": "godeungeogimchijorim",
+      "spicy": 2,
+      "name": {
+        "en": "Braised Mackerel with Kimchi",
+        "ja": "サバとキムチの煮付け",
+        "zh": "泡菜炖青花鱼"
+      },
+      "desc": {
+        "en": "Mackerel braised with aged kimchi and gochugaru in a spicy sauce until tender, eaten with rice.",
+        "ja": "サバを熟成キムチと唐辛子ダレで柔らかく煮込んだ料理。ご飯と食べる。",
+        "zh": "青花鱼与酸泡菜加辣椒酱汁炖煮至软烂,配米饭。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "raw"
+      ]
+    },
+    {
+      "ko": "양념게장",
+      "is_food": true,
+      "roman": "yangnyeomgejang",
+      "spicy": 2,
+      "name": {
+        "en": "Spicy Marinated Raw Crab",
+        "ja": "ヤンニョムケジャン(辛味漬け生ガニ)",
+        "zh": "辣酱腌生蟹"
+      },
+      "desc": {
+        "en": "Raw blue crab marinated in a spicy chili-garlic sauce, eaten with rice and often called a rice thief.",
+        "ja": "生のワタリガニを唐辛子とにんにくの辛いタレに漬けた料理。ご飯が進む。",
+        "zh": "生梭子蟹用辣椒蒜酱腌制,非常下饭。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "yes",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef"
+      ]
+    },
+    {
+      "ko": "허니콤보",
+      "is_food": true,
+      "roman": "heonikombo",
+      "spicy": 0,
+      "name": {
+        "en": "Honey Combo Chicken",
+        "ja": "ハニーコンボチキン",
+        "zh": "蜂蜜综合炸鸡"
+      },
+      "desc": {
+        "en": "Fried chicken pieces, including wings and drumsticks, coated in sweet honey glaze, eaten by hand.",
+        "ja": "手羽と脚などの揚げ鶏に甘いハニーソースをからめた、手で食べるチキン。",
+        "zh": "鸡翅和鸡腿等炸鸡块裹上甜蜂蜜酱，用手拿着吃。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "레드콤보",
+      "is_food": true,
+      "roman": "redeukombo",
+      "spicy": 2,
+      "name": {
+        "en": "Spicy Red Combo Chicken",
+        "ja": "レッドコンボ(辛口チキン)",
+        "zh": "红辣综合炸鸡"
+      },
+      "desc": {
+        "en": "Fried chicken wings and drumsticks coated in a spicy red chili sauce.",
+        "ja": "手羽や脚などの揚げ鶏に、辛い赤唐辛子ソースをからめたチキン。",
+        "zh": "鸡翅和鸡腿等炸鸡块裹上辣红辣椒酱。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "간장콤보",
+      "is_food": true,
+      "roman": "ganjangkombo",
+      "spicy": 0,
+      "name": {
+        "en": "Soy Garlic Combo Chicken",
+        "ja": "醤油コンボチキン",
+        "zh": "酱油综合炸鸡"
+      },
+      "desc": {
+        "en": "Fried chicken wings and drumsticks glazed in a sweet-savory soy sauce, not spicy.",
+        "ja": "手羽や脚などの揚げ鶏を甘じょっぱい醤油ダレでからめた、辛くないチキン。",
+        "zh": "鸡翅和鸡腿等炸鸡块裹上咸甜酱油酱，不辣。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "반반콤보[간장+레드]",
+      "is_food": true,
+      "roman": "banbankombo",
+      "spicy": 2,
+      "name": {
+        "en": "Half-and-Half Combo (Soy + Spicy Red)",
+        "ja": "ハーフ&ハーフコンボ(醤油+レッド)",
+        "zh": "半半综合炸鸡（酱油+红辣）"
+      },
+      "desc": {
+        "en": "Half soy-glazed and half spicy red-sauced fried chicken pieces, so you can try both.",
+        "ja": "醤油味と辛口レッド味を半分ずつ楽しめる揚げチキン。",
+        "zh": "一半酱油味、一半红辣味的炸鸡，可同时品尝两种口味。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "허니순살",
+      "is_food": true,
+      "roman": "heonisunsal",
+      "spicy": 0,
+      "name": {
+        "en": "Honey Boneless Chicken",
+        "ja": "ハニー骨なしチキン",
+        "zh": "蜂蜜无骨炸鸡"
+      },
+      "desc": {
+        "en": "Boneless fried chicken pieces coated in sweet honey glaze, easy to eat.",
+        "ja": "骨なしの揚げ鶏に甘いハニーソースをからめた、食べやすいチキン。",
+        "zh": "无骨炸鸡块裹上甜蜂蜜酱，方便食用。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "후라이드한마리",
+      "is_food": true,
+      "roman": "hurai deuhanmari",
+      "spicy": 0,
+      "name": {
+        "en": "Whole Fried Chicken",
+        "ja": "フライドチキン(丸ごと一羽)",
+        "zh": "原味炸鸡（整只）"
+      },
+      "desc": {
+        "en": "A whole chicken cut into pieces, battered and deep-fried until crispy, served plain.",
+        "ja": "一羽分の鶏を切り分け、衣をつけてカリッと揚げた、味付けなしの定番チキン。",
+        "zh": "整只鸡切块后裹粉油炸至酥脆的经典原味炸鸡。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "양념치킨한마리",
+      "is_food": true,
+      "roman": "yangnyeomchikinhanmari",
+      "spicy": 2,
+      "name": {
+        "en": "Whole Korean Sweet & Spicy Fried Chicken",
+        "ja": "ヤンニョムチキン(丸ごと一羽)",
+        "zh": "甜辣酱炸鸡（整只）"
+      },
+      "desc": {
+        "en": "A whole fried chicken tossed in sticky sweet and spicy gochujang-based sauce.",
+        "ja": "一羽分の揚げ鶏を、甘辛いコチュジャンベースのタレでからめたチキン。",
+        "zh": "整只炸鸡裹上黏稠的甜辣辣椒酱。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "토종삼계탕",
+      "is_food": true,
+      "roman": "tojongsamgyetang",
+      "spicy": 0,
+      "name": {
+        "en": "Native Korean Chicken Ginseng Soup",
+        "ja": "在来種のサムゲタン",
+        "zh": "土鸡参鸡汤"
+      },
+      "desc": {
+        "en": "A whole young native-breed chicken stuffed with glutinous rice, ginseng and jujube, simmered in a clear broth and eaten hot.",
+        "ja": "在来種の若鶏にもち米・高麗人参・ナツメを詰めて煮込んだ、あっさり滋養スープ。",
+        "zh": "土鸡腹中塞入糯米、人参和红枣炖煮的清淡滋补热汤。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "들깨삼계탕",
+      "is_food": true,
+      "roman": "deulkkaesamgyetang",
+      "spicy": 0,
+      "name": {
+        "en": "Perilla Seed Chicken Ginseng Soup",
+        "ja": "エゴマ入りサムゲタン",
+        "zh": "紫苏籽参鸡汤"
+      },
+      "desc": {
+        "en": "Ginseng chicken soup enriched with ground perilla seeds, giving a creamy, nutty broth; eaten hot with rice and kimchi.",
+        "ja": "すりつぶしたエゴマの実を加えた、香ばしくまろやかなサムゲタン。",
+        "zh": "加入紫苏籽粉的参鸡汤，汤底浓稠香醇。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "흑마늘삼계탕",
+      "is_food": true,
+      "roman": "heukmaneulsamgyetang",
+      "spicy": 0,
+      "name": {
+        "en": "Black Garlic Chicken Ginseng Soup",
+        "ja": "黒ニンニクのサムゲタン",
+        "zh": "黑蒜参鸡汤"
+      },
+      "desc": {
+        "en": "Whole chicken ginseng soup cooked with aged black garlic, which adds a mild sweet, rich flavor.",
+        "ja": "熟成させた黒ニンニクを加えた、ほのかに甘くコクのあるサムゲタン。",
+        "zh": "加入发酵黑蒜的参鸡汤，味道微甜醇厚。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "녹두삼계탕",
+      "is_food": true,
+      "roman": "nokdusamgyetang",
+      "spicy": 0,
+      "name": {
+        "en": "Mung Bean Chicken Ginseng Soup",
+        "ja": "緑豆入りサムゲタン",
+        "zh": "绿豆参鸡汤"
+      },
+      "desc": {
+        "en": "Ginseng chicken soup cooked with mung beans, which give a soft, earthy flavor; served hot in a stone pot.",
+        "ja": "緑豆を加えて煮込んだ、やさしい味わいのサムゲタン。",
+        "zh": "加入绿豆炖煮的参鸡汤，口味温和清爽。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "산삼배양근삼계탕",
+      "is_food": true,
+      "roman": "sansamBaeyangguensamgyetang",
+      "spicy": 0,
+      "name": {
+        "en": "Cultivated Wild Ginseng Root Chicken Soup",
+        "ja": "山参培養根入りサムゲタン",
+        "zh": "山参培养根参鸡汤"
+      },
+      "desc": {
+        "en": "Premium ginseng chicken soup made with lab-cultured wild ginseng roots, with a stronger ginseng aroma.",
+        "ja": "山参の培養根を加えた、高麗人参の香り豊かなプレミアムサムゲタン。",
+        "zh": "加入山参培养根的高档参鸡汤，人参香气浓郁。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "백년삼계탕",
+      "is_food": true,
+      "roman": "baengnyeonsamgyetang",
+      "spicy": 0,
+      "name": {
+        "en": "Hundred-Year Chicken Ginseng Soup",
+        "ja": "ペンニョン・サムゲタン(特製)",
+        "zh": "百年参鸡汤（特色）"
+      },
+      "desc": {
+        "en": "A house-special ginseng chicken soup, usually with extra herbs and ingredients; the exact recipe varies by restaurant.",
+        "ja": "店ごとに具材が異なる、薬材入りの特製サムゲタン。",
+        "zh": "各店特色参鸡汤，通常加入多种药材，具体配方因店而异。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "unlikely",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "seafood",
+        "raw"
+      ]
+    },
+    {
+      "ko": "모둠초밥",
+      "is_food": true,
+      "roman": "modumchobap",
+      "spicy": 0,
+      "name": {
+        "en": "Assorted Sushi Platter",
+        "ja": "握り寿司盛り合わせ",
+        "zh": "寿司拼盘"
+      },
+      "desc": {
+        "en": "An assortment of nigiri sushi with various raw fish and seafood on vinegared rice, eaten with soy sauce and wasabi.",
+        "ja": "酢飯の上に様々な生魚や海鮮をのせた握り寿司の盛り合わせ。醤油とわさびでいただく。",
+        "zh": "多种生鱼和海鲜握寿司的拼盘,蘸酱油和芥末食用。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "yes",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef"
+      ]
+    },
+    {
+      "ko": "참다랑어뱃살초밥",
+      "is_food": true,
+      "roman": "chamdarangeobaetsalchobap",
+      "spicy": 0,
+      "name": {
+        "en": "Bluefin Tuna Belly Sushi (Otoro)",
+        "ja": "本マグロ腹身の握り(トロ)",
+        "zh": "蓝鳍金枪鱼腩寿司"
+      },
+      "desc": {
+        "en": "Nigiri sushi topped with fatty raw bluefin tuna belly, rich and melt-in-your-mouth.",
+        "ja": "脂ののった本マグロの腹身をのせた握り寿司。とろける食感。",
+        "zh": "铺有肥美生蓝鳍金枪鱼腩肉的握寿司,入口即化。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "yes",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef"
+      ]
+    },
+    {
+      "ko": "참다랑어등살초밥",
+      "is_food": true,
+      "roman": "chamdarangeodeungsalchobap",
+      "spicy": 0,
+      "name": {
+        "en": "Bluefin Tuna Back Sushi (Akami)",
+        "ja": "本マグロ背身の握り(赤身)",
+        "zh": "蓝鳍金枪鱼背肉寿司"
+      },
+      "desc": {
+        "en": "Nigiri sushi topped with leaner raw bluefin tuna cut from the back, with a clean flavor.",
+        "ja": "本マグロの背の部分をのせた握り寿司。脂が少なくさっぱりした味。",
+        "zh": "铺有生蓝鳍金枪鱼背部肉的握寿司,脂肪较少,口味清爽。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "yes",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef"
+      ]
+    },
+    {
+      "ko": "광어초밥",
+      "is_food": true,
+      "roman": "gwangeochobap",
+      "spicy": 0,
+      "name": {
+        "en": "Flounder Sushi (Hirame)",
+        "ja": "ヒラメの握り",
+        "zh": "比目鱼寿司"
+      },
+      "desc": {
+        "en": "Nigiri sushi topped with slices of raw flatfish, light and chewy in texture.",
+        "ja": "ヒラメの刺身をのせた握り寿司。淡白で歯ごたえがある。",
+        "zh": "铺有生比目鱼片的握寿司,口味清淡,口感有嚼劲。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "yes",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef"
+      ]
+    },
+    {
+      "ko": "연어초밥",
+      "is_food": true,
+      "roman": "yeonjeochobap",
+      "spicy": 0,
+      "name": {
+        "en": "Salmon Sushi",
+        "ja": "サーモンの握り",
+        "zh": "三文鱼寿司"
+      },
+      "desc": {
+        "en": "Nigiri sushi topped with a slice of raw salmon, soft and fatty.",
+        "ja": "生のサーモンをのせた握り寿司。柔らかく脂がのっている。",
+        "zh": "铺有生三文鱼片的握寿司,肉质柔软油润。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "yes",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef"
+      ]
+    },
+    {
+      "ko": "새우초밥",
+      "is_food": true,
+      "roman": "saeuchobap",
+      "spicy": 0,
+      "name": {
+        "en": "Shrimp Sushi (Ebi)",
+        "ja": "海老の握り",
+        "zh": "虾寿司"
+      },
+      "desc": {
+        "en": "Nigiri sushi topped with a boiled shrimp, mildly sweet and fully cooked.",
+        "ja": "茹でた海老をのせた握り寿司。ほんのり甘い。",
+        "zh": "铺有煮熟虾的握寿司,味道微甜。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "unlikely",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef",
+        "raw"
+      ]
+    },
+    {
+      "ko": "모둠사시미",
+      "is_food": true,
+      "roman": "modumsasimi",
+      "spicy": 0,
+      "name": {
+        "en": "Assorted Sashimi",
+        "ja": "刺身盛り合わせ",
+        "zh": "生鱼片拼盘"
+      },
+      "desc": {
+        "en": "A platter of assorted thinly sliced raw fish, eaten with soy sauce and wasabi.",
+        "ja": "数種類の生魚を薄切りにした盛り合わせ。醤油とわさびでいただく。",
+        "zh": "多种生鱼片拼盘,蘸酱油和芥末食用。"
+      },
+      "pork": "unlikely",
+      "beef": "unlikely",
+      "seafood": "yes",
+      "raw": "yes",
+      "source": "ai",
+      "ask": [
+        "pork",
+        "beef"
+      ]
+    }
+  ]
+}

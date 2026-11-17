@@ -1,0 +1,364 @@
+{
+  "app_name": "Google 번역",
+  "manual_seconds": null,
+  "notes": "번역 앱: Google 번역 웹(translate.google.com), 2026-11-17, 21개를 줄바꿈으로 한 번에 넣음. AI 이름: evaluation/ai_sonnet.json. O/X 판정자: AI 도우미(Claude) — 작성자가 비교를 맡김, 2026-11-17 작성자가 수정 없이 확정. 기준: 한국 음식을 모르는 관광객이 이름만 보고 무슨 음식인지 알 수 있나, 애매하면 X. 열탄불고기 AI 이름은 소불고기로 오해하게 하므로 X.",
+  "rows": {
+    "떡볶이": {
+      "en": {
+        "app_text": "Tteokbokki",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "トッポッキ",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "炒年糕",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "순대": {
+      "en": {
+        "app_text": "Sundae",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "スンデ",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "圣代",
+        "app_ok": "x",
+        "ai_ok": "o"
+      }
+    },
+    "부산오뎅": {
+      "en": {
+        "app_text": "Busan Odeng",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "釜山おでん",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "釜山鱼头",
+        "app_ok": "x",
+        "ai_ok": "o"
+      }
+    },
+    "간자장": {
+      "en": {
+        "app_text": "Ganjajang",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "カンジャジャン",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "炸酱面",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "해물짬뽕": {
+      "en": {
+        "app_text": "Seafood Jjamppong",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "海鮮チャンポン",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "海鲜海鲜面",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "찹쌀탕수육": {
+      "en": {
+        "app_text": "Chapssal Tangsuyuk",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "もち米タンスユク",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "杂碎汤汁肉 (6·7번 줄이 한 줄로 합쳐져 나옴)",
+        "app_ok": "x",
+        "ai_ok": "o"
+      }
+    },
+    "열탄불고기": {
+      "en": {
+        "app_text": "Yeoltan Bulgogi",
+        "app_ok": "x",
+        "ai_ok": "x"
+      },
+      "ja": {
+        "app_text": "ヨルタン・プルコギ",
+        "app_ok": "x",
+        "ai_ok": "x"
+      },
+      "zh": {
+        "app_text": "(빠짐: 줄이 합쳐짐)",
+        "app_ok": "x",
+        "ai_ok": "x"
+      }
+    },
+    "7분돼지김치": {
+      "en": {
+        "app_text": "7-Minute Pork Kimchi",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "7分豚キムチ",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "七分钟猪肉泡菜",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "항정살": {
+      "en": {
+        "app_text": "Pork Jowl",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "豚トロ",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "猪脸肉",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "돼지불고기": {
+      "en": {
+        "app_text": "Pork Bulgogi",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "豚プルコギ",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "猪肉烤肉",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "오삼불고기": {
+      "en": {
+        "app_text": "Osam Bulgogi",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "オサム・プルコギ",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "五香烤肉",
+        "app_ok": "x",
+        "ai_ok": "o"
+      }
+    },
+    "양념게장": {
+      "en": {
+        "app_text": "Spicy Marinated Crab",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "ヤンニョムケジャン",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "辣味腌蟹",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "허니콤보": {
+      "en": {
+        "app_text": "Honey Combo",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "ハニーコンボ",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "蜂蜜组合",
+        "app_ok": "x",
+        "ai_ok": "o"
+      }
+    },
+    "레드콤보": {
+      "en": {
+        "app_text": "Red Combo",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "レッドコンボ",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "红酱组合",
+        "app_ok": "x",
+        "ai_ok": "o"
+      }
+    },
+    "후라이드한마리": {
+      "en": {
+        "app_text": "Whole Fried Chicken",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "フライドチキン（1羽）",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "炸全鸡",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "토종삼계탕": {
+      "en": {
+        "app_text": "Traditional Samgyetang",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "トジョン（在来種）サムゲタン",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "传统参鸡汤",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "들깨삼계탕": {
+      "en": {
+        "app_text": "Perilla Seed Samgyetang",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "エゴマ入りサムゲタン",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "紫苏参鸡汤",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "산삼배양근삼계탕": {
+      "en": {
+        "app_text": "Cultivated Wild Ginseng Samgyetang",
+        "app_ok": "x",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "山参培養根サムゲタン",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "野生人参参鸡汤",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "모둠초밥": {
+      "en": {
+        "app_text": "Assorted Sushi",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "盛り合わせ寿司",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "什锦寿司",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "참다랑어뱃살초밥": {
+      "en": {
+        "app_text": "Bluefin Tuna Belly Sushi",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "本マグロ大トロ寿司",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "蓝鳍金枪鱼腩寿司",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    },
+    "광어초밥": {
+      "en": {
+        "app_text": "Flatfish Sushi",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "ja": {
+        "app_text": "ヒラメ寿司",
+        "app_ok": "o",
+        "ai_ok": "o"
+      },
+      "zh": {
+        "app_text": "比目鱼寿司",
+        "app_ok": "o",
+        "ai_ok": "o"
+      }
+    }
+  }
+}

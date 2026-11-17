@@ -1,0 +1,62 @@
+{
+  "reviewed_by_human": true,
+  "reviewed_at": "2026-11-17",
+  "review_note": "프로젝트 작성자가 48개 전체를 확인하고 수정 없이 승인. 젓갈은 해산물로, 새우초밥 날것은 식당마다 다름으로 유지.",
+  "how_to_read": "한국의 일반적인 조리법 기준 정답표. spicy 0 안 매움 ~ 3 아주 매움. pork/beef/seafood/raw는 yes(들어감), no(안 들어감), varies(식당마다 달라 채점하지 않음). seafood는 생선·조개·새우·어묵·젓갈·멸치 육수 포함. raw는 익히지 않은 고기·생선·달걀. compare=true인 21개는 번역 앱과 이름 비교에도 쓴다.",
+  "entries": [
+    {"ko": "떡볶이", "spicy": 2, "pork": "no", "beef": "no", "seafood": "yes", "raw": "no", "compare": true, "memo": "어묵이 들어감"},
+    {"ko": "순대", "spicy": 0, "pork": "yes", "beef": "no", "seafood": "no", "raw": "no", "compare": true, "memo": "돼지 창자·선지"},
+    {"ko": "모듬튀김", "spicy": 0, "pork": "varies", "beef": "no", "seafood": "varies", "raw": "no", "memo": "구성에 따라 만두·오징어·새우"},
+    {"ko": "김밥", "spicy": 0, "pork": "yes", "beef": "no", "seafood": "yes", "raw": "no", "memo": "햄, 맛살·어묵"},
+    {"ko": "부산오뎅", "spicy": 0, "pork": "no", "beef": "no", "seafood": "yes", "raw": "no", "compare": true, "memo": "어묵 꼬치"},
+    {"ko": "찐계란", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no"},
+    {"ko": "땡초계란라면", "spicy": 3, "pork": "varies", "beef": "varies", "seafood": "varies", "raw": "no", "memo": "라면 스프 성분은 제품마다 다름"},
+
+    {"ko": "간자장", "spicy": 0, "pork": "yes", "beef": "no", "seafood": "varies", "raw": "no", "compare": true},
+    {"ko": "매운유니자장", "spicy": 2, "pork": "yes", "beef": "no", "seafood": "varies", "raw": "no", "memo": "유니 = 다진 돼지고기"},
+    {"ko": "해물짬뽕", "spicy": 2, "pork": "varies", "beef": "no", "seafood": "yes", "raw": "no", "compare": true, "memo": "돼지고기·돼지 육수를 쓰는 집이 많음"},
+    {"ko": "차돌해물짬뽕", "spicy": 2, "pork": "varies", "beef": "yes", "seafood": "yes", "raw": "no"},
+    {"ko": "찹쌀탕수육", "spicy": 0, "pork": "yes", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "깐풍기", "spicy": 1, "pork": "no", "beef": "no", "seafood": "no", "raw": "no", "memo": "닭고기"},
+    {"ko": "볶음밥", "spicy": 0, "pork": "varies", "beef": "no", "seafood": "varies", "raw": "no", "memo": "곁들이는 자장 소스에 돼지고기"},
+
+    {"ko": "열탄불고기", "spicy": 2, "pork": "yes", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "7분돼지김치", "spicy": 2, "pork": "yes", "beef": "no", "seafood": "yes", "raw": "no", "compare": true, "memo": "김치에 젓갈"},
+    {"ko": "한돈생삼겹살", "spicy": 0, "pork": "yes", "beef": "no", "seafood": "no", "raw": "no"},
+    {"ko": "한돈생목살", "spicy": 0, "pork": "yes", "beef": "no", "seafood": "no", "raw": "no"},
+    {"ko": "항정살", "spicy": 0, "pork": "yes", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "우삼겹된장찌개", "spicy": 1, "pork": "no", "beef": "yes", "seafood": "varies", "raw": "no", "memo": "우삼겹 = 소고기"},
+    {"ko": "냉김치말이국수", "spicy": 1, "pork": "no", "beef": "varies", "seafood": "yes", "raw": "no", "memo": "김치에 젓갈, 육수는 집마다 다름"},
+
+    {"ko": "돼지불고기", "spicy": 1, "pork": "yes", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "오삼불고기", "spicy": 2, "pork": "yes", "beef": "no", "seafood": "yes", "raw": "no", "compare": true, "memo": "오징어 + 삼겹살"},
+    {"ko": "소불고기", "spicy": 0, "pork": "no", "beef": "yes", "seafood": "no", "raw": "no"},
+    {"ko": "두부찌개", "spicy": 2, "pork": "varies", "beef": "varies", "seafood": "varies", "raw": "no"},
+    {"ko": "닭볶음탕", "spicy": 2, "pork": "no", "beef": "no", "seafood": "no", "raw": "no"},
+    {"ko": "고등어김치조림", "spicy": 2, "pork": "no", "beef": "no", "seafood": "yes", "raw": "no"},
+    {"ko": "양념게장", "spicy": 2, "pork": "no", "beef": "no", "seafood": "yes", "raw": "yes", "compare": true, "memo": "익히지 않은 게"},
+
+    {"ko": "허니콤보", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "레드콤보", "spicy": 2, "pork": "no", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "간장콤보", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no"},
+    {"ko": "반반콤보[간장+레드]", "spicy": 2, "pork": "no", "beef": "no", "seafood": "no", "raw": "no", "memo": "절반이 매운 레드"},
+    {"ko": "허니순살", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no"},
+    {"ko": "후라이드한마리", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "양념치킨한마리", "spicy": 1, "pork": "no", "beef": "no", "seafood": "no", "raw": "no"},
+
+    {"ko": "토종삼계탕", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "들깨삼계탕", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "흑마늘삼계탕", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no"},
+    {"ko": "녹두삼계탕", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no"},
+    {"ko": "산삼배양근삼계탕", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no", "compare": true},
+    {"ko": "백년삼계탕", "spicy": 0, "pork": "no", "beef": "no", "seafood": "no", "raw": "no"},
+
+    {"ko": "모둠초밥", "spicy": 0, "pork": "no", "beef": "no", "seafood": "yes", "raw": "yes", "compare": true},
+    {"ko": "참다랑어뱃살초밥", "spicy": 0, "pork": "no", "beef": "no", "seafood": "yes", "raw": "yes", "compare": true},
+    {"ko": "참다랑어등살초밥", "spicy": 0, "pork": "no", "beef": "no", "seafood": "yes", "raw": "yes"},
+    {"ko": "광어초밥", "spicy": 0, "pork": "no", "beef": "no", "seafood": "yes", "raw": "yes", "compare": true},
+    {"ko": "연어초밥", "spicy": 0, "pork": "no", "beef": "no", "seafood": "yes", "raw": "yes"},
+    {"ko": "새우초밥", "spicy": 0, "pork": "no", "beef": "no", "seafood": "yes", "raw": "varies", "memo": "익힌 새우가 보통이지만 생새우일 수 있음"},
+    {"ko": "모둠사시미", "spicy": 0, "pork": "no", "beef": "no", "seafood": "yes", "raw": "yes"}
+  ]
+}
